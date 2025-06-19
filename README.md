@@ -23,7 +23,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src="https://github.com/Divi7515/Hospitality-analysis/blob/main/Screenshot%202025-06-19%20134807.png">
 </p>
 
 
