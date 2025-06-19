@@ -30,7 +30,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Divi7515/Hospitality-analysis/blob/main/20250619_133241.gif>
+    <img src="https://github.com/Divi7515/Hospitality-analysis/blob/main/20250619_133241.gif">
 </p>
 
 ## Monthly Analysis View
